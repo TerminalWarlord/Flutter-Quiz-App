@@ -2,7 +2,7 @@
 
 A new flutter project.
 
-# Sreenshots
+# Screenshots
 
 |              Start Screen               |                Question Screen                 |               Results Screen                |
 | :-------------------------------------: | :--------------------------------------------: | :-----------------------------------------: |
