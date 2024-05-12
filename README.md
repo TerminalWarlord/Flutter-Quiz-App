@@ -1,6 +1,12 @@
 # Flutter Quiz App
 
-A new Flutter project.
+A new flutter project.
+
+# Sreenshots
+
+|              Start Screen               |                Question Screen                 |               Results Screen                |
+| :-------------------------------------: | :--------------------------------------------: | :-----------------------------------------: |
+| ![Start Screen](/docs/start_screen.png) | ![Questions Screen](/docs/question_screen.png) | ![Results Screen](/docs/results_screen.png) |
 
 ## Getting Started
 
